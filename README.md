@@ -1,15 +1,15 @@
 <h1 align="center">Hi👋🏽, I'm Quinuel Ndip-Agbor🍀</h1>
-<h3 align="center">A passionate Frontend Developer and UI Designer from 🇨🇲</h3>
+<h3 align="center">Frontend Developer and UI Designer from 🇨🇲</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quin04" alt="quin04" /></a> </p>
 
-- 🔭 I’m currently working on an EMS
+- 🔭 I’m currently working on an **EMS🏢**
 
 - 🌱 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QUIN04](https://github.com/QUIN04)
 
-- 💬 Ask me about **Responsive Web Design**
+- 💬 Ask me about **Responsive Web Design and Data Structures**
 
 - 📫 How to reach me **quinuelt@gmail.com**
 
