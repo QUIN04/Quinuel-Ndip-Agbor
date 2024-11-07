@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋🏽, I'm Quinuel Ndip-Agbor🍀</h1>
+<h1 align="center">Hi, I'm Quinuel Ndip-Agbor</h1>
 <h3 align="center">Frontend Developer and UI Designer from 🇨🇲</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quin04" alt="quin04" /></a> </p>
