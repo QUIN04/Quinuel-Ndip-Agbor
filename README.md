@@ -3,19 +3,19 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quin04" alt="quin04" /></a> </p>
 
-- 🔭 I’m currently working on an **EMS🏢**
+- 👷🏽‍♀️ I’m currently working on an **EMS🏢**
 
-- 🌱 I’m currently learning **Java**
+- 📚 I’m currently learning **Java**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QUIN04](https://github.com/QUIN04)
 
-- 💬 Ask me about **Responsive Web Design and Data Structures**
+- ❓ Ask me about **Responsive Web Design and Data Structures**
 
-- 📫 How to reach me **quinuelt@gmail.com**
+- 📧 How to reach me **quinuelt@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/quinuel-ndip-agbor/](https://www.linkedin.com/in/quinuel-ndip-agbor/)
 
-- ⚡ Fun fact **I am a good poet, good dancer and quite nerdy with ART 🌷**
+- 🎈 Fun fact **I am a good poet, good dancer and quite nerdy with ART 🌸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
