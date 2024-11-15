@@ -5,7 +5,7 @@
 
 - 👷🏽‍♀️ I’m currently working on an **EMS🏢**
 
-- 📚 I’m currently learning **Java**
+- 📚 I’m currently learning **Java (Spring Boot)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QUIN04](https://github.com/QUIN04)
 
