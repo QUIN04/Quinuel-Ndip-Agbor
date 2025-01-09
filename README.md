@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/quinuel-ndip-agbor/](https://www.linkedin.com/in/quinuel-ndip-agbor/)
 
-- 🎈 Fun fact **I am a good poet, good dancer and quite nerdy with ART 🌸**
+- 🎈 Fun fact **I am quite nerdy with ART 🌸**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
