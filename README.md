@@ -11,8 +11,6 @@
 
 - ❓ Ask me about **Responsive Web Design and Data Structures**
 
-- 📧 How to reach me **quinuelt@gmail.com**
-
 - 📄 Know about my experiences [https://www.linkedin.com/in/quinuel-ndip-agbor/](https://www.linkedin.com/in/quinuel-ndip-agbor/)
 
 - 🎈 Fun fact **I am quite nerdy with ART 🌸**
