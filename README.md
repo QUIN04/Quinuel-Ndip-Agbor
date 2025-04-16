@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quin04" alt="quin04" /></a> </p>
 
-- 👷🏽‍♀️ I’m currently working on an **EMS🏢**
+- 👷🏽‍♀️ I’m currently working on an **DLROVS🌆**
 
-- 📚 I’m currently learning **Java (Spring Boot)**
+- 📚 I’m currently learning **Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QUIN04](https://github.com/QUIN04)
 
@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/quinuel-ndip-agbor/](https://www.linkedin.com/in/quinuel-ndip-agbor/)
 
-- 🎈 Fun fact **I am quite nerdy with ART 🌸**
+- 🎈 Fun fact **I am quite nerdy with ART 🌸 and I love music and dancing🎼🎧**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
