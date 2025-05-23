@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=quin04" alt="quin04" /></a> </p>
 
-- 👷🏽‍♀️ I’m currently working on an **DLROVS🌆**
+- 👷🏽‍♀️ I’m currently working on a **DLROVS🌆**
 
-- 📚 I’m currently learning **Javascript**
+- 📚 I’m currently learning **BlockChain**
 
 - 👨‍💻 All of my projects are available at [https://github.com/QUIN04](https://github.com/QUIN04)
 
-- ❓ Ask me about **Responsive Web Design and Data Structures**
+- ❓ Ask me about **Responsive Web Design, Data Structures and Design**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/quinuel-ndip-agbor/](https://www.linkedin.com/in/quinuel-ndip-agbor/)
 
